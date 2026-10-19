@@ -1,0 +1,11 @@
+Welcome to DrRacket, version 8.17 [cs].
+Language: Simply Scheme; memory limit: 128 MB.
+> (acronym '(happy tree friends))
+'htf
+> (acronym '(How to Read a Book))
+"HRB"
+> (acronym '(Elizabeth Rose Bloodflame))
+"ERB"
+> (acronym '(what you see is what you get))
+'wysiwyg
+> 
